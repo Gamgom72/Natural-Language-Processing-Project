@@ -1,13 +1,12 @@
-Sentiment analysis of movies reviews 
+## Sentiment analysis of movies reviews 
 
-dataframe.
-• Preprocessing
-o Normalization by convert whole text to 
-lower case
-o Tokenization
-o Remove stop world
-o Remove punctuation
-o Remove numbers
-o Stemming
-• Feature Extraction
-o TF-IDF Technique
+
+## Preprocessing
+* Normalization by convert whole text to lower case
+* Tokenization
+* Remove stop world
+* Remove punctuation
+* Remove numbers
+* Stemming
+## Feature Extraction
+* TF-IDF Technique
