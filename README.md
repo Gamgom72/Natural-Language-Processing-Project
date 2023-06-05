@@ -1,5 +1,7 @@
 ## Sentiment analysis of movies reviews 
 
+This Project classifies movies reviews whether they are positive or negative.
+
 
 ## Preprocessing
 * Normalization by convert whole text to lower case
@@ -10,3 +12,6 @@
 * Stemming
 ## Feature Extraction
 * TF-IDF Technique
+
+## Classification
+* Machine learning techniques
