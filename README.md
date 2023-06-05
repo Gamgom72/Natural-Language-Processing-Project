@@ -1,6 +1,4 @@
-
-Sentiment analysis of movies 
-reviews
+Sentiment analysis of movies reviews 
 
 dataframe.
 • Preprocessing
