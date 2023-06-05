@@ -14,4 +14,6 @@ This Project classifies movies reviews whether they are positive or negative.
 * TF-IDF Technique
 
 ## Classification
-* Machine learning techniques
+* Machine learning techniques:<br>
+    SVM model <br>
+    Logistic Regression model <br>
